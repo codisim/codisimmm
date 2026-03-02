@@ -32,10 +32,10 @@ I actively practice **competitive programming**, strengthening my problem-solvin
 
 ### 🛠️ Tech Stack
 **Backend & Languages**  
-<img src="https://skillicons.dev/icons?i=go,c,cpp,ts,js,nodejs,express,postgres,mongodb&perline=10" height="35" />
+<img src="https://skillicons.dev/icons?i=go,c,cpp,ts,js,nodejs,express,postgres,mongodb&perline=10" height="38" />
 
 **Frontend & Tools**  
-<img src="https://skillicons.dev/icons?i=react,next,prisma,docker,git,github,postman,vscode&perline=10" height="35" />
+<img src="https://skillicons.dev/icons?i=react,next,prisma,docker,git,github,postman,vscode&perline=10" height="38" />
 
 
 <!--
@@ -50,14 +50,8 @@ I actively practice **competitive programming**, strengthening my problem-solvin
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=codisim&show_icons=true&theme=tokyonight&hide_border=true" 
-    height="160" 
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=codisim&layout=compact&theme=tokyonight&hide_border=true" 
-    height="160" 
-  />
+  <img src="https://github-readme-stats.vercel.app/api?username=codisim&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codisim&layout=compact&theme=tokyonight&hide_border=true" height="170" />
 </div>
 
 <div align="center">
