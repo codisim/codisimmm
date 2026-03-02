@@ -32,12 +32,12 @@ I actively practice **competitive programming**, strengthening my problem-solvin
 
 ### 🛠️ Tech Stack
 **Backend & Languages**  
-<img src="https://skillicons.dev/icons?i=go,c,cpp,ts,js,nodejs,express,postgres,mongodb&perline=10" height="40" />
+<img src="https://skillicons.dev/icons?i=go,c,cpp,ts,js,nodejs,express,postgres,mongodb&perline=10" height="35" />
 
 **Frontend & Tools**  
-<img src="https://skillicons.dev/icons?i=react,next,prisma,docker,git,github,postman,vscode&perline=10" height="40" />
+<img src="https://skillicons.dev/icons?i=react,next,prisma,docker,git,github,postman,vscode&perline=10" height="35" />
 
----
+
 <!--
 ### 🧩 Problem Solving
 - **Languages:** C, C++, Go, JavaScript, TypeScript  
@@ -71,4 +71,4 @@ I actively practice **competitive programming**, strengthening my problem-solvin
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=codisim&label=Profile%20Views&color=0A66C2&style=flat-square" />
-</div> -->
+</div>
