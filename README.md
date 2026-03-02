@@ -50,7 +50,7 @@ I actively practice **competitive programming**, strengthening my problem-solvin
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://metrics.lecoq.io/codisim?base=header,activity,community,repositories,metadata&config_timezone=Asia/Dhaka&theme=tokyonight" width="100%" />
+  ![Mohammad Emran's Top Langs](https://github-readme-stats-codisim.vercel.app/api/top-langs/?username=codisim&layout=compact)
 </div>
 
 <div align="center">
