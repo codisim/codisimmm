@@ -13,6 +13,9 @@
     <a href="https://github.com/codisim">
       <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
     </a>
+    <a href="https://leetcode.com/u/engwaliullah">
+    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
+  </a>
     <a href="mailto:waliullah9099@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
@@ -22,7 +25,7 @@
 ---
 
 ### 👨‍💻 About Me
-Backend-focused developer building scalable systems using **Go** and **Node.js**.  
+Backend-focused developer building scalable systems using **Node/Nest.js** and **PostgreSQL**.  
 I actively practice **competitive programming**, strengthening my problem-solving skills through algorithms and data structures.
 
 ---
@@ -35,10 +38,12 @@ I actively practice **competitive programming**, strengthening my problem-solvin
 <img src="https://skillicons.dev/icons?i=react,next,prisma,docker,git,github,postman,vscode&perline=10" height="40" />
 
 ---
-
+<!--
 ### 🧩 Problem Solving
 - **Languages:** C, C++, Go, JavaScript, TypeScript  
 - **Platforms:** [LeetCode](https://leetcode.com/u/engwaliullah/) • [Codeforces](https://codeforces.com/profile/engwaliullah)
+
+-->
 
 ---
 
