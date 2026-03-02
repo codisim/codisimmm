@@ -1,10 +1,10 @@
-<!-- <div align="center">
+<div align="center">
   <img 
     src="https://capsule-render.vercel.app/api?type=waving&color=0:24292e,100:0D1117&height=200&section=header&text=Hi%20I'm%20Waliullah&fontSize=70&animation=fadeIn&fontAlignY=35" 
     width="100%" 
   />
 
-  <h3>Software Developer | Backend Developer | Problem Solver</h3>
+  <h3> Backend Engineer | Problem Solver </h3>
 
   <p>
     <a href="https://linkedin.com/in/engwaliullah">
@@ -38,7 +38,7 @@ I actively practice **competitive programming**, strengthening my problem-solvin
 
 ### 🧩 Problem Solving
 - **Languages:** C, C++, Go, JavaScript, TypeScript  
-- **Platforms:** [LeetCode](https://leetcode.com/u/your_leetcode_username/) • [Codeforces](https://codeforces.com/profile/your_codeforces_username)
+- **Platforms:** [LeetCode](https://leetcode.com/u/engwaliullah/) • [Codeforces](https://codeforces.com/profile/engwaliullah)
 
 ---
 
