@@ -50,8 +50,7 @@ I actively practice **competitive programming**, strengthening my problem-solvin
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=codisim&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codisim&layout=compact&theme=tokyonight&hide_border=true" height="170" />
+  <img src="https://metrics.lecoq.io/codisim?base=header,activity,community,repositories,metadata&config_timezone=Asia/Dhaka&theme=tokyonight" width="100%" />
 </div>
 
 <div align="center">
